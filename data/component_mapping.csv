@@ -1,0 +1,1963 @@
+id,csv_ingredient,base_type,protein_type,vegetable_type
+1,wheat flour,chapati,,
+2,"self-raising wheat flour
+eggs
+margarine
+Rind from lemons sugar
+ salt",chapati,,
+3,"self-raising wheat flour
+eggs
+margarine
+Rind from lemons sugar
+ salt",,eggs,
+4,"all-purpose wheat flour
+baking powder
+sugar
+cooking oil
+water",chapati,,
+5,"minced beef
+coriander",,beef,
+6,"fresh
+leek
+garlic
+chilli pepper
+wheat flour
+salt
+water
+cooking oil",chapati,,
+7,"fresh
+leek
+garlic
+chilli pepper
+wheat flour
+salt
+water
+cooking oil",,,garlic
+8,"fresh
+leek
+garlic
+chilli pepper
+wheat flour
+salt
+water
+cooking oil",,,dhania
+9,"fresh
+leek
+garlic
+chilli pepper
+wheat flour
+salt
+water
+cooking oil",,,leek
+10,"cabbage
+garlic
+onions
+carrots
+ginger
+garden peas
+water
+wheat flour
+salt
+green chilli
+cooking oil",chapati,,
+11,"cabbage
+garlic
+onions
+carrots
+ginger
+garden peas
+water
+wheat flour
+salt
+green chilli
+cooking oil",,,cabbage
+12,"cabbage
+garlic
+onions
+carrots
+ginger
+garden peas
+water
+wheat flour
+salt
+green chilli
+cooking oil",,,onions
+13,"cabbage
+garlic
+onions
+carrots
+ginger
+garden peas
+water
+wheat flour
+salt
+green chilli
+cooking oil",,,carrots
+14,"cabbage
+garlic
+onions
+carrots
+ginger
+garden peas
+water
+wheat flour
+salt
+green chilli
+cooking oil",,,garlic
+15,"cabbage
+garlic
+onions
+carrots
+ginger
+garden peas
+water
+wheat flour
+salt
+green chilli
+cooking oil",,,ginger
+16,"wheat flour
+eggs
+cow milk
+sugar
+water
+cooking oil",chapati,,
+17,"wheat flour
+eggs
+cow milk
+sugar
+water
+cooking oil",,eggs,
+18,"wheat flour
+eggs
+cow milk
+sugar",chapati,,
+19,"wheat flour
+eggs
+cow milk
+sugar",,eggs,
+20,"wheat flour
+maize flour
+yeast
+water
+salt
+butter
+mixed spices
+garlic",ugali,,
+21,"wheat flour
+maize flour
+yeast
+water
+salt
+butter
+mixed spices
+garlic",,,garlic
+22,"wheat flour
+wheat flour
+sugar
+cooking oil
+cardamom 
+water",chapati,,
+23,"eggs
+salt
+cooking oil
+bread",bread,,
+24,"eggs
+salt
+cooking oil
+bread",,eggs,
+25,"whole maize flour
+water
+cow milk",ugali,,
+26,"sorghum flour
+finger millet flour
+maize flou
+cow milk
+water",chapati,,
+27,"cassava flour
+sugar
+water",chapati,,
+28,"finger millet flour
+sugar
+water",chapati,,
+29,"bulrush millet flour
+sugar
+water",chapati,,
+30,"rice flour
+sugar
+cardamom powder
+coconut milk
+water",chapati,,
+31,"cassava flour
+red sorghum flour
+finger millet flour
+sugar
+water",chapati,,
+32,"finger millet flour
+sorghum flour
+milk
+water",chapati,,
+33,"oatmeal flour
+sugar
+water
+cow milk",chapati,,
+34,"maize flour
+finger millet flour
+sprouted finger millet flour
+water",ugali,,
+35,"white rice
+beef
+cardamom
+cinnamon
+black peppe
+cloves
+salt
+cumin
+potatoes
+onions
+garlic
+ginger
+green capsicum
+coriander
+water
+cooking oil",rice,,
+36,"white rice
+beef
+cardamom
+cinnamon
+black peppe
+cloves
+salt
+cumin
+potatoes
+onions
+garlic
+ginger
+green capsicum
+coriander
+water
+cooking oil",,beef,
+37,"white rice
+beef
+cardamom
+cinnamon
+black peppe
+cloves
+salt
+cumin
+potatoes
+onions
+garlic
+ginger
+green capsicum
+coriander
+water
+cooking oil",,,onions
+38,"white rice
+beef
+cardamom
+cinnamon
+black peppe
+cloves
+salt
+cumin
+potatoes
+onions
+garlic
+ginger
+green capsicum
+coriander
+water
+cooking oil",,,garlic
+39,"white rice
+beef
+cardamom
+cinnamon
+black peppe
+cloves
+salt
+cumin
+potatoes
+onions
+garlic
+ginger
+green capsicum
+coriander
+water
+cooking oil",,,ginger
+40,"white rice
+beef
+cardamom
+cinnamon
+black peppe
+cloves
+salt
+cumin
+potatoes
+onions
+garlic
+ginger
+green capsicum
+coriander
+water
+cooking oil",,,dhania
+41,"kidney beans
+water
+white rice
+onion
+tomatoes
+cooking oil
+salt",rice,,
+42,"kidney beans
+water
+white rice
+onion
+tomatoes
+cooking oil
+salt",,beans,
+43,"kidney beans
+water
+white rice
+onion
+tomatoes
+cooking oil
+salt",,,tomatoes
+44,"kidney beans
+water
+white rice
+onion
+tomatoes
+cooking oil
+salt",,,onions
+45,"white rice
+green grams
+coconut milk
+onion
+salt
+water",rice,,
+46,"white rice
+green grams
+coconut milk
+onion
+salt
+water",,,onions
+47,"white rice
+water
+food colour powder",rice,,
+48,"white rice
+salt
+cooking oil
+water",rice,,
+49,"white rice
+onions
+cooking oil
+salt
+water",rice,,
+50,"white rice
+onions
+cooking oil
+salt
+water",,,onions
+51,"potatoes
+carrots
+onion
+tomato
+cooking fat
+white rice
+water
+salt",rice,,
+52,"potatoes
+carrots
+onion
+tomato
+cooking fat
+white rice
+water
+salt",,,tomatoes
+53,"potatoes
+carrots
+onion
+tomato
+cooking fat
+white rice
+water
+salt",,,onions
+54,"potatoes
+carrots
+onion
+tomato
+cooking fat
+white rice
+water
+salt",,,carrots
+55,"white rice
+water
+salt",rice,,
+56,"white rice
+water
+milk
+milk cream",rice,,
+57,"potatoes
+pumpkin leaves
+green maize
+water
+salt",potatoes,,
+58,"potatoes
+pumpkin leaves
+white maize and kidney
+beans
+water
+salt",potatoes,,
+59,"potatoes
+pumpkin leaves
+white maize and kidney
+beans
+water
+salt",,beans,
+60,"potatoes
+green bananas
+njahi",potatoes,,
+61,"njahi dolichos lablab
+blackbeans
+unpeeled bananas
+salt
+water",,beans,
+62,"potato
+bananas
+onion
+tomato
+cooking fat
+salt
+water",potatoes,,
+63,"potato
+bananas
+onion
+tomato
+cooking fat
+salt
+water",,,tomatoes
+64,"potato
+bananas
+onion
+tomato
+cooking fat
+salt
+water",,,onions
+65,"beans
+green maize
+sweet potatoes
+salt
+peanut butter
+water",potatoes,,
+66,"beans
+green maize
+sweet potatoes
+salt
+peanut butter
+water",,beans,
+67,"black beans
+dolichos lablab
+sweet potatoes
+water
+salt",potatoes,,
+68,"black beans
+dolichos lablab
+sweet potatoes
+water
+salt",,beans,
+69,"beans
+green bananas
+salt
+water",,beans,
+70,"potatoes
+water
+salt",potatoes,,
+71,"potatoes
+water
+salt
+margarine",potatoes,,
+72,"potatoes
+beans
+salt
+cooking oil
+water",potatoes,,
+73,"potatoes
+beans
+salt
+cooking oil
+water",,beans,
+74,"sweet potatoes
+dolichos beans
+salt
+water",potatoes,,
+75,"sweet potatoes
+dolichos beans
+salt
+water",,beans,
+76,"pigeon peas
+potatoes
+pumpkin leaves
+maize cobs with kernels
+salt
+margarine
+water",potatoes,,
+77,"green maize cobs with kernels
+bean pods
+water
+spring onion
+cooking fat
+salt",,,onions
+78,"maize and beans
+onion
+cooking oil
+salt
+water",,beans,
+79,"maize and beans
+onion
+cooking oil
+salt
+water",,,onions
+80,"green maize cobs with kernels
+kidney beans
+water
+onion
+cooking fat
+salt",,beans,
+81,"green maize cobs with kernels
+kidney beans
+water
+onion
+cooking fat
+salt",,,onions
+82,"maize
+beans
+water
+onion
+cooking fat
+vegetable fat
+salt",,beans,
+83,"maize
+beans
+water
+onion
+cooking fat
+vegetable fat
+salt",,,onions
+84,"crushed maize
+onion
+carrot
+cooking fat
+salt
+water",,,onions
+85,"crushed maize
+onion
+carrot
+cooking fat
+salt
+water",,,carrots
+86,"beans
+water
+tomato
+onion
+cooking oil
+salt
+coriander",,beans,
+87,"beans
+water
+tomato
+onion
+cooking oil
+salt
+coriander",,,tomatoes
+88,"beans
+water
+tomato
+onion
+cooking oil
+salt
+coriander",,,onions
+89,"beans
+water
+tomato
+onion
+cooking oil
+salt
+coriander",,,dhania
+90,"lentils
+water
+onions
+tomato
+cooking oil
+salt",,beans,
+91,"lentils
+water
+onions
+tomato
+cooking oil
+salt",,,tomatoes
+92,"lentils
+water
+onions
+tomato
+cooking oil
+salt",,,onions
+93,"green gram
+water
+onion
+tomato
+cooking oil
+salt",,,tomatoes
+94,"green gram
+water
+onion
+tomato
+cooking oil
+salt",,,onions
+95,"beans
+water
+spring onion
+tomato
+cooking oil
+cow milk",,beans,
+96,"beans
+water
+spring onion
+tomato
+cooking oil
+cow milk",,,tomatoes
+97,"beans
+water
+spring onion
+tomato
+cooking oil
+cow milk",,,onions
+98,black beans,,beans,
+99,"dolichos 
+onions
+tomato
+cooking oil
+salt
+water",,,tomatoes
+100,"dolichos 
+onions
+tomato
+cooking oil
+salt
+water",,,onions
+101,"pigeon pea
+onion
+tomatoes
+cooking fat
+salt
+water",,,tomatoes
+102,"pigeon pea
+onion
+tomatoes
+cooking fat
+salt
+water",,,onions
+103,"beans
+cooking oil
+water
+salt",,beans,
+104,spring onions,,,onions
+105,"red sorghum
+kidney beans
+water
+salt
+onions
+cooking oil",,beans,
+106,"red sorghum
+kidney beans
+water
+salt
+onions
+cooking oil",,,onions
+107,"beans kidney
+red sorghum flour
+teff flour
+sukumawiki leaves
+salt
+ghee
+water",chapati,,
+108,"beans kidney
+red sorghum flour
+teff flour
+sukumawiki leaves
+salt
+ghee
+water",,beans,
+109,"beef
+onions
+tomato
+salt
+cooking oil
+water",,beef,
+110,"beef
+onions
+tomato
+salt
+cooking oil
+water",,,tomatoes
+111,"beef
+onions
+tomato
+salt
+cooking oil
+water",,,onions
+112,"meat goat
+onion
+tomato
+cooking oil
+salt
+water",,,tomatoes
+113,"meat goat
+onion
+tomato
+cooking oil
+salt
+water",,,onions
+114,"beef
+water
+onions
+tomato
+cooking oil
+salt",,beef,
+115,"beef
+water
+onions
+tomato
+cooking oil
+salt",,,tomatoes
+116,"beef
+water
+onions
+tomato
+cooking oil
+salt",,,onions
+117,"beef
+onions
+potatoes
+tomato
+tomato paste
+coriander
+capsicum
+cooking oil
+ginger
+garlic
+salt
+pilau masala
+maziwa mala
+turmeric
+water",potatoes,,
+118,"beef
+onions
+potatoes
+tomato
+tomato paste
+coriander
+capsicum
+cooking oil
+ginger
+garlic
+salt
+pilau masala
+maziwa mala
+turmeric
+water",,beef,
+119,"beef
+onions
+potatoes
+tomato
+tomato paste
+coriander
+capsicum
+cooking oil
+ginger
+garlic
+salt
+pilau masala
+maziwa mala
+turmeric
+water",,,tomatoes
+120,"beef
+onions
+potatoes
+tomato
+tomato paste
+coriander
+capsicum
+cooking oil
+ginger
+garlic
+salt
+pilau masala
+maziwa mala
+turmeric
+water",,,onions
+121,"beef
+onions
+potatoes
+tomato
+tomato paste
+coriander
+capsicum
+cooking oil
+ginger
+garlic
+salt
+pilau masala
+maziwa mala
+turmeric
+water",,,garlic
+122,"beef
+onions
+potatoes
+tomato
+tomato paste
+coriander
+capsicum
+cooking oil
+ginger
+garlic
+salt
+pilau masala
+maziwa mala
+turmeric
+water",,,ginger
+123,"beef
+onions
+potatoes
+tomato
+tomato paste
+coriander
+capsicum
+cooking oil
+ginger
+garlic
+salt
+pilau masala
+maziwa mala
+turmeric
+water",,,dhania
+124,"minced beef
+water
+onions
+tomato
+coriander
+salt
+cooking oil
+cumin
+curry
+Royco-cubes
+garlic
+rice",rice,,
+125,"minced beef
+water
+onions
+tomato
+coriander
+salt
+cooking oil
+cumin
+curry
+Royco-cubes
+garlic
+rice",,beef,
+126,"minced beef
+water
+onions
+tomato
+coriander
+salt
+cooking oil
+cumin
+curry
+Royco-cubes
+garlic
+rice",,,tomatoes
+127,"minced beef
+water
+onions
+tomato
+coriander
+salt
+cooking oil
+cumin
+curry
+Royco-cubes
+garlic
+rice",,,onions
+128,"minced beef
+water
+onions
+tomato
+coriander
+salt
+cooking oil
+cumin
+curry
+Royco-cubes
+garlic
+rice",,,garlic
+129,"minced beef
+water
+onions
+tomato
+coriander
+salt
+cooking oil
+cumin
+curry
+Royco-cubes
+garlic
+rice",,,dhania
+130,"dry fish
+tomato
+onion
+cooking oil
+peanut butter
+magadi
+water",,fish,
+131,"dry fish
+tomato
+onion
+cooking oil
+peanut butter
+magadi
+water",,,tomatoes
+132,"dry fish
+tomato
+onion
+cooking oil
+peanut butter
+magadi
+water",,,onions
+133,"omena fish
+onion
+water
+ghee
+salt
+tomato
+milk
+cooking oil",,fish,
+134,"omena fish
+onion
+water
+ghee
+salt
+tomato
+milk
+cooking oil",,,tomatoes
+135,"omena fish
+onion
+water
+ghee
+salt
+tomato
+milk
+cooking oil",,,onions
+136,"white-rice
+king fish
+chilli 
+turmeric
+coriander
+cumin
+garlic
+ginger
+green chilli
+coriander
+mint
+yoghurt
+anise
+clove
+cardamom
+cinnamon
+salt
+bay
+lemon
+cooking oil
+water",rice,,
+137,"white-rice
+king fish
+chilli 
+turmeric
+coriander
+cumin
+garlic
+ginger
+green chilli
+coriander
+mint
+yoghurt
+anise
+clove
+cardamom
+cinnamon
+salt
+bay
+lemon
+cooking oil
+water",,fish,
+138,"white-rice
+king fish
+chilli 
+turmeric
+coriander
+cumin
+garlic
+ginger
+green chilli
+coriander
+mint
+yoghurt
+anise
+clove
+cardamom
+cinnamon
+salt
+bay
+lemon
+cooking oil
+water",,,garlic
+139,"white-rice
+king fish
+chilli 
+turmeric
+coriander
+cumin
+garlic
+ginger
+green chilli
+coriander
+mint
+yoghurt
+anise
+clove
+cardamom
+cinnamon
+salt
+bay
+lemon
+cooking oil
+water",,,ginger
+140,"white-rice
+king fish
+chilli 
+turmeric
+coriander
+cumin
+garlic
+ginger
+green chilli
+coriander
+mint
+yoghurt
+anise
+clove
+cardamom
+cinnamon
+salt
+bay
+lemon
+cooking oil
+water",,,dhania
+141,"Nile perch fish
+onion
+tomato
+cooking oil
+salt
+water",,fish,
+142,"Nile perch fish
+onion
+tomato
+cooking oil
+salt
+water",,,tomatoes
+143,"Nile perch fish
+onion
+tomato
+cooking oil
+salt
+water",,,onions
+144,"goat meat
+onion
+tomato
+cooking oil
+salt",,,tomatoes
+145,"goat meat
+onion
+tomato
+cooking oil
+salt",,,onions
+146,"beef
+water
+sukuma wiki
+salt
+chilli
+coriander
+black pepper
+red capsicum
+green capsicum
+yellow capsicum
+onion
+tomato
+wheat flour
+maize flour",ugali,,
+147,"beef
+water
+sukuma wiki
+salt
+chilli
+coriander
+black pepper
+red capsicum
+green capsicum
+yellow capsicum
+onion
+tomato
+wheat flour
+maize flour",,beef,
+148,"beef
+water
+sukuma wiki
+salt
+chilli
+coriander
+black pepper
+red capsicum
+green capsicum
+yellow capsicum
+onion
+tomato
+wheat flour
+maize flour",,,sukuma_wiki
+149,"beef
+water
+sukuma wiki
+salt
+chilli
+coriander
+black pepper
+red capsicum
+green capsicum
+yellow capsicum
+onion
+tomato
+wheat flour
+maize flour",,,tomatoes
+150,"beef
+water
+sukuma wiki
+salt
+chilli
+coriander
+black pepper
+red capsicum
+green capsicum
+yellow capsicum
+onion
+tomato
+wheat flour
+maize flour",,,onions
+151,"beef
+water
+sukuma wiki
+salt
+chilli
+coriander
+black pepper
+red capsicum
+green capsicum
+yellow capsicum
+onion
+tomato
+wheat flour
+maize flour",,,dhania
+152,"okra
+onion
+tomato
+garlic
+meat
+cooking oil
+salt
+Royco-cubes
+curry 
+coriander
+water",,,tomatoes
+153,"okra
+onion
+tomato
+garlic
+meat
+cooking oil
+salt
+Royco-cubes
+curry 
+coriander
+water",,,onions
+154,"okra
+onion
+tomato
+garlic
+meat
+cooking oil
+salt
+Royco-cubes
+curry 
+coriander
+water",,,garlic
+155,"okra
+onion
+tomato
+garlic
+meat
+cooking oil
+salt
+Royco-cubes
+curry 
+coriander
+water",,,dhania
+156,"dried termite
+onion
+cow
+salt",,,onions
+157,"omena
+spring onion
+tomato
+cooking oil
+salt",,,tomatoes
+158,"omena
+spring onion
+tomato
+cooking oil
+salt",,,onions
+159,"eggs
+tomato
+onion
+salt
+cooking oil",,eggs,
+160,"eggs
+tomato
+onion
+salt
+cooking oil",,,tomatoes
+161,"eggs
+tomato
+onion
+salt
+cooking oil",,,onions
+162,"eggs
+cooking oil
+salt
+onion
+tomato
+yellow capsicum
+green capsicum",,eggs,
+163,"eggs
+cooking oil
+salt
+onion
+tomato
+yellow capsicum
+green capsicum",,,tomatoes
+164,"eggs
+cooking oil
+salt
+onion
+tomato
+yellow capsicum
+green capsicum",,,onions
+165,"chicken
+onions
+green capsicum
+salt
+tomato",,chicken,
+166,"chicken
+onions
+green capsicum
+salt
+tomato",,,tomatoes
+167,"chicken
+onions
+green capsicum
+salt
+tomato",,,onions
+168,"whole chicken
+salt
+cooking oil",,chicken,
+169,"quail
+tomato
+onion
+salt
+cow milk
+cooking oil",,,tomatoes
+170,"quail
+tomato
+onion
+salt
+cow milk
+cooking oil",,,onions
+171,"guinea fowl
+onion
+tomato
+cooking oil
+salt
+water",,,tomatoes
+172,"guinea fowl
+onion
+tomato
+cooking oil
+salt
+water",,,onions
+173,"cow blood
+beef
+cow fat
+water",,beef,
+174,"cow fat
+cow blood
+onion
+sour milk
+salt
+tomato",,,tomatoes
+175,"cow fat
+cow blood
+onion
+sour milk
+salt
+tomato",,,onions
+176,"sukuma wiki
+tomatoes
+onion
+cooking oil
+salt",,,sukuma_wiki
+177,"sukuma wiki
+tomatoes
+onion
+cooking oil
+salt",,,tomatoes
+178,"sukuma wiki
+tomatoes
+onion
+cooking oil
+salt",,,onions
+179,"cabbage
+onion
+cooking oil
+salt",,,cabbage
+180,"cabbage
+onion
+cooking oil
+salt",,,onions
+181,"jute mallow
+pumpkin
+onion
+salt
+water
+tomato
+cow milk",,,tomatoes
+182,"jute mallow
+pumpkin
+onion
+salt
+water
+tomato
+cow milk",,,onions
+183,"pumpkin leaves
+onion
+tomato
+cooking oil
+cow milk
+salt",,,tomatoes
+184,"pumpkin leaves
+onion
+tomato
+cooking oil
+cow milk
+salt",,,onions
+185,"spider plant leaves
+African nightshade leaves
+amaranth leaves
+onion
+cow milk
+salt
+water",,,onions
+186,"spinach leaves
+tomato
+onion
+salt
+ghee",,,spinach
+187,"spinach leaves
+tomato
+onion
+salt
+ghee",,,tomatoes
+188,"spinach leaves
+tomato
+onion
+salt
+ghee",,,onions
+189,"amaranth leaves
+tomato
+onion
+salt
+cooking oil",,,tomatoes
+190,"amaranth leaves
+tomato
+onion
+salt
+cooking oil",,,onions
+191,"stinging nettle leaves
+onion
+cooking oil
+salt
+water",,,onions
+192,"cow pea leaves
+onion
+cooking oil
+salt
+sherekha
+wood ash and
+water
+milk
+water",,,onions
+193,"spinach
+onion
+cooking oil
+salt",,,spinach
+194,"spinach
+onion
+cooking oil
+salt",,,onions
+195,"sweet potato leaves
+onion
+cooking oil
+salt",potatoes,,
+196,"sweet potato leaves
+onion
+cooking oil
+salt",,,onions
+197,"mushrooms
+onion
+peanut butter
+tomato
+salt
+sherekha
+wood ash and water
+water",,,tomatoes
+198,"mushrooms
+onion
+peanut butter
+tomato
+salt
+sherekha
+wood ash and water
+water",,,onions
+199,"potatoes
+tomatoes
+salt
+turmeric
+coriander
+red chilli
+cooking oil
+fenugreek
+mustar
+cumin
+curry leaves
+lemon
+sugar
+water",potatoes,,
+200,"potatoes
+tomatoes
+salt
+turmeric
+coriander
+red chilli
+cooking oil
+fenugreek
+mustar
+cumin
+curry leaves
+lemon
+sugar
+water",,,tomatoes
+201,"potatoes
+tomatoes
+salt
+turmeric
+coriander
+red chilli
+cooking oil
+fenugreek
+mustar
+cumin
+curry leaves
+lemon
+sugar
+water",,,dhania
+202,"garden peas
+egg plants
+brinjals
+tomatoes
+coriander
+garlic
+chillies
+ginger
+fenugreek
+mustard
+cumin
+coriander
+turmeric 
+red chilli
+salt
+water
+cooking oil",,,tomatoes
+203,"garden peas
+egg plants
+brinjals
+tomatoes
+coriander
+garlic
+chillies
+ginger
+fenugreek
+mustard
+cumin
+coriander
+turmeric 
+red chilli
+salt
+water
+cooking oil",,,garlic
+204,"garden peas
+egg plants
+brinjals
+tomatoes
+coriander
+garlic
+chillies
+ginger
+fenugreek
+mustard
+cumin
+coriander
+turmeric 
+red chilli
+salt
+water
+cooking oil",,,ginger
+205,"garden peas
+egg plants
+brinjals
+tomatoes
+coriander
+garlic
+chillies
+ginger
+fenugreek
+mustard
+cumin
+coriander
+turmeric 
+red chilli
+salt
+water
+cooking oil",,,dhania
+206,"yellow split dal
+tomato
+salt
+turmeric 
+red chilli
+tomato paste
+cooking oil
+fenugreek
+mustard 
+cumin
+curry
+lemon
+sugar
+water",,,tomatoes
+207,"chick peas
+red chilli 
+turmeric
+chole masala
+tomato
+tomato paste
+onion
+cooking oil
+garlic
+ginger
+coriander
+coriander powde
+cinnamon
+salt
+bay leaf
+cloves
+cumin 
+lemon
+water
+anise",,,tomatoes
+208,"chick peas
+red chilli 
+turmeric
+chole masala
+tomato
+tomato paste
+onion
+cooking oil
+garlic
+ginger
+coriander
+coriander powde
+cinnamon
+salt
+bay leaf
+cloves
+cumin 
+lemon
+water
+anise",,,onions
+209,"chick peas
+red chilli 
+turmeric
+chole masala
+tomato
+tomato paste
+onion
+cooking oil
+garlic
+ginger
+coriander
+coriander powde
+cinnamon
+salt
+bay leaf
+cloves
+cumin 
+lemon
+water
+anise",,,garlic
+210,"chick peas
+red chilli 
+turmeric
+chole masala
+tomato
+tomato paste
+onion
+cooking oil
+garlic
+ginger
+coriander
+coriander powde
+cinnamon
+salt
+bay leaf
+cloves
+cumin 
+lemon
+water
+anise",,,ginger
+211,"chick peas
+red chilli 
+turmeric
+chole masala
+tomato
+tomato paste
+onion
+cooking oil
+garlic
+ginger
+coriander
+coriander powde
+cinnamon
+salt
+bay leaf
+cloves
+cumin 
+lemon
+water
+anise",,,dhania
+212,"potato
+arrowroot
+green banana
+onion
+tomato
+cooking oil
+salt
+water",potatoes,,
+213,"potato
+arrowroot
+green banana
+onion
+tomato
+cooking oil
+salt
+water",,,tomatoes
+214,"potato
+arrowroot
+green banana
+onion
+tomato
+cooking oil
+salt
+water",,,onions
+215,"yam
+potato
+onion
+tomato
+carrot
+salt
+cooking oil
+water",potatoes,,
+216,"yam
+potato
+onion
+tomato
+carrot
+salt
+cooking oil
+water",,,tomatoes
+217,"yam
+potato
+onion
+tomato
+carrot
+salt
+cooking oil
+water",,,onions
+218,"yam
+potato
+onion
+tomato
+carrot
+salt
+cooking oil
+water",,,carrots
+219,"sweet potato
+onion
+tomato
+cooking oil
+peanut butter
+salt
+water",potatoes,,
+220,"sweet potato
+onion
+tomato
+cooking oil
+peanut butter
+salt
+water",,,tomatoes
+221,"sweet potato
+onion
+tomato
+cooking oil
+peanut butter
+salt
+water",,,onions
+222,"potato
+arrowroot
+green banana
+carrot
+onions",potatoes,,
+223,"potato
+arrowroot
+green banana
+carrot
+onions",,,tomatoes
+224,"potato
+arrowroot
+green banana
+carrot
+onions",,,onions
+225,"potato
+arrowroot
+green banana
+carrot
+onions",,,carrots
+226,"tomato
+cooking oil
+salt
+water",,,tomatoes
+227,"tomato
+cooking oil
+salt
+water",,,onions
+228,"tomato
+cooking oil
+salt
+water",,,carrots
+229,"sweet potato
+water
+oil",potatoes,,
+230,"potato
+ginger
+garlic
+green chilli
+coriander leaves
+gram flour
+salt
+red chilli 
+turmeric
+lemon
+cooking oil
+water
+bicarbonate of soda",chapati,,
+231,"potato
+ginger
+garlic
+green chilli
+coriander leaves
+gram flour
+salt
+red chilli 
+turmeric
+lemon
+cooking oil
+water
+bicarbonate of soda",,,garlic
+232,"potato
+ginger
+garlic
+green chilli
+coriander leaves
+gram flour
+salt
+red chilli 
+turmeric
+lemon
+cooking oil
+water
+bicarbonate of soda",,,ginger
+233,"potato
+ginger
+garlic
+green chilli
+coriander leaves
+gram flour
+salt
+red chilli 
+turmeric
+lemon
+cooking oil
+water
+bicarbonate of soda",,,dhania
+234,"potato
+cooking oil",potatoes,,
+235,"green banana
+onion
+tomato
+salt
+cooking oil
+water",,,tomatoes
+236,"green banana
+onion
+tomato
+salt
+cooking oil
+water",,,onions
+237,"beef
+green banana
+onion
+tomato
+coriander leaves
+potato
+salt
+cooking fat
+water",potatoes,,
+238,"beef
+green banana
+onion
+tomato
+coriander leaves
+potato
+salt
+cooking fat
+water",,beef,
+239,"beef
+green banana
+onion
+tomato
+coriander leaves
+potato
+salt
+cooking fat
+water",,,tomatoes
+240,"beef
+green banana
+onion
+tomato
+coriander leaves
+potato
+salt
+cooking fat
+water",,,onions
+241,"beef
+green banana
+onion
+tomato
+coriander leaves
+potato
+salt
+cooking fat
+water",,,dhania
+242,"whole maize flour
+water",ugali,,
+243,"whole maize flour
+finger millet flour
+water",ugali,,
+244,"whole maize flour
+red sorghum flour
+finger millet
+water",ugali,,
+245,"cassava flour
+red sorghum flour
+water",chapati,,
+246,"maize flour
+water",ugali,,
+247,"red sorghum flour
+finger millet flour
+maize flour
+water",ugali,,
+248,"cassava flour
+water",chapati,,
+249,"cassava flour
+finger millet flour
+sorghum flour
+water",chapati,,
+250,"teff flour
+red sorghum flour
+fermented milk
+salt
+ghee
+water",chapati,,
+251,"banana green
+maize flour
+water",ugali,,
+252,"wheat flour
+water
+sugar
+salt
+cooking oil",chapati,,
+253,"wheat flour
+water
+sugar",chapati,,
+254,"wheat flour
+salt
+water
+cooking oil
+cow ghee",chapati,,
+255,"wheat flour
+salt
+sugar
+ghee
+cooking oil
+fenugreek leaves
+natural yoghurt
+water
+coriander",chapati,,
+256,"semolina flour
+cow ghee
+cow milk
+sugar
+pistachio nut
+almond
+cardamon",chapati,,
